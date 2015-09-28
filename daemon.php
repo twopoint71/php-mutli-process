@@ -3,7 +3,7 @@
  * date: 27-sep-2015
  * auth: robert smith
  * info: run a php daemon process
- * lics: MIT License (see LICENSE.txt for details)
+ * lic : MIT License (see LICENSE.txt for details)
  */
 
 $pwd = realpath("");
